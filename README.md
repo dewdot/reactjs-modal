@@ -2,6 +2,7 @@
 A simple reactjs model component.
 
 ## Demo:
+https://reactjs-modal-2dxhn.ondigitalocean.app/
 
 ## Contact Developer
 * Ravi Shekhar
